@@ -1,5 +1,5 @@
-let canvasWidth = 1200;
-let canvasHeight = 1200;
+let canvasWidth = 1000;
+let canvasHeight = 1000;
 
 
 let secondRipples = [];
